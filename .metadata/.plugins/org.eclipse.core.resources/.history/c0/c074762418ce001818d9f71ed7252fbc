@@ -3,7 +3,6 @@ package basic_java;
 public class Myclass {
 	
 	public static void main(String[] args) {
-		
 		Student mark = new Student(); //mark => object or instance
 		
 		//Not the Recommended way to access variables of other Class
