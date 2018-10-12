@@ -45,13 +45,9 @@ public class Myclass {
 		System.out.println(test_static.test("Hey Static method! "));
 		
 		//test_static variable access 
-		
-		//not the recommended way
-		 test_static test_age = new test_static();
-		System.out.println(test_age.age = 46);
-		
-		//recommended way
-		System.out.println(test_static.age = 23);
+		test_age = new test_static();
+		test_static.test_age = 23;
+		System.out.println(test_static.test_age);
 		
 	}
 	

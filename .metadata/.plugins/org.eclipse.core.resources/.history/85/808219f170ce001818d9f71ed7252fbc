@@ -50,7 +50,7 @@ public class Myclass {
 		 test_static test_age = new test_static();
 		System.out.println(test_age.age = 46);
 		
-		//recommended way
+		
 		System.out.println(test_static.age = 23);
 		
 	}
