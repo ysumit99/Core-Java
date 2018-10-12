@@ -1,0 +1,16 @@
+package basic_java;
+
+import java.util.Scanner;
+
+public class Myclass {
+	
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		System.out.println("Enter some number");
+		
+		int input = scan.nextInt();
+		
+		System.out.println(input);
+	}
+}
