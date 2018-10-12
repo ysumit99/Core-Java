@@ -31,8 +31,7 @@ public class Myclass {
 		Cube cube2 = new Cube(20,89,76);
 		System.out.println(cube2.getCubeVolume());
 		
-		System.out.println(Add(3,4));
-		System.out.println(Add(3.6,4.7));
+		
 		
 	}
 	
