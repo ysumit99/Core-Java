@@ -53,6 +53,11 @@ public class Myclass {
 		//recommended way
 		System.out.println(test_static.age = 23);
 		
+		//another static example
+		Student sumit = new Student();
+		System.out.println(sumit.getNoOfStudents());
+		
+		System.out.println(Student.NoOfStudents);
 	}
 	
 	public static int Add(int a, int b) {

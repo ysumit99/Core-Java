@@ -1,0 +1,6 @@
+package basic_java;
+
+public class Main {
+	
+	public String name = "Sumit";
+}

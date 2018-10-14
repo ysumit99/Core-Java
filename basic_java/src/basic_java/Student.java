@@ -6,7 +6,21 @@ public class Student {
 	String name;
 	int age;
 	
-	//used for encapsulation of variables
+	
+	
+	static int NoOfStudents  = 0;
+	
+	
+	Student()
+	{
+		 NoOfStudents++;
+	}
+//	
+	public int getNoOfStudents()
+	{
+		return NoOfStudents;
+	}
+	//getters and setters used for encapsulation of variables
 	public int getId() {
 		return id;
 	}
