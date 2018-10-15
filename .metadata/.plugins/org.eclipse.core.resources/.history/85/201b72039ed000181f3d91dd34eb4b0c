@@ -1,0 +1,8 @@
+package basic_java;
+
+public class interface_driver implements Interface1 {
+	
+	int getInterestRate() {
+			return 0;
+	}
+}
