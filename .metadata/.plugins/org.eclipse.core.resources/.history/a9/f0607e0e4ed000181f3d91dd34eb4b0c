@@ -1,0 +1,5 @@
+package basic_java;
+
+public abstract class Test_abstract_method  {
+
+}
