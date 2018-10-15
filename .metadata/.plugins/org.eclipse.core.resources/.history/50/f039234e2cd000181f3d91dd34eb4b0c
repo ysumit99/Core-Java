@@ -1,0 +1,7 @@
+package basic_java;
+
+public class Bank_DEF {
+	int getInterestRate() {
+		return 6;
+	}
+}
