@@ -1,0 +1,10 @@
+package basic_java;
+import java.util.*;
+
+public class Hash_set {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
