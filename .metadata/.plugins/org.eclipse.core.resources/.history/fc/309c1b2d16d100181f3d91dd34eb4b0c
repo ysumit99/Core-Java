@@ -1,0 +1,13 @@
+package basic_java;
+import java.util.*;
+
+public class Array {
+
+	public static void main(String[] args) {
+		
+		int simple_array[] new int[5];
+		
+		ArrayList<Integer> myList = new Arraylist<Integer>(5);
+	}
+
+}

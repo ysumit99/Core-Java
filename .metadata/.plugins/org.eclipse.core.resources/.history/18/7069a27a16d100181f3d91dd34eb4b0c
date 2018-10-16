@@ -1,0 +1,22 @@
+package basic_java;
+import java.util.*;
+
+public class Array {
+
+	public static void main(String[] args) {
+		
+		int simple_array[] =  new int[5];
+		
+		ArrayList<Integer> myList = new Arraylist<Integer>(5);
+		
+		myList.add(1);
+		myList.add(5);
+		myList.add(3);
+		myList.add(6);
+		
+		for(Integer x : myList)
+			System.out.println(x);
+		
+	}
+
+}
