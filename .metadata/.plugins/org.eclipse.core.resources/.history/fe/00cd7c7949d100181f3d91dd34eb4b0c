@@ -31,7 +31,7 @@ public class Linked_list {
 
 }
 
-//LinkedList insertion is faster than Arraylist
+//LinkedList id faster than Arraylist
 //ArrayList search is faster than LinkedList
 //LinkedList element deletion is faster than  ArrayList
 //LinkedList has more memory overhead than ArrayList
